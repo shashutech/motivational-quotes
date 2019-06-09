@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="fill_parent"
+              android:layout_margin="8dp"
+              android:layout_height="fill_parent">
+
+              <ScrollView
+                      android:layout_width="fill_parent"
+                      android:layout_height="wrap_content"
+                      >
+
+                <LinearLayout android:layout_width="match_parent"
+                              android:layout_height="wrap_content"
+                              android:orientation="vertical">
+                <!-- Quote 1-->
+
+                <TextView android:layout_height="wrap_content"
+                          android:layout_width="match_parent"
+                          android:text="@string/quote1"
+                          android:textSize="18dp"
+                          android:textColor="@color/quoteContent"/>
+                <TextView android:layout_height="wrap_content"
+                          android:layout_width="wrap_content"
+                          android:text="@string/quote1Author"
+                          android:textSize="14dp"
+                          android:layout_gravity="end"
+                          android:textFontWeight="blod"
+                          android:textColor="@color/quoteAuthor"/>
+
+                <!-- Quote 2 -->
+
+                <TextView android:layout_height="wrap_content"
+                          android:layout_width="match_parent"
+                          android:text="@string/quote2"
+                          android:layout_marginTop="14dp"
+                          android:textSize="18dp"
+                          android:textColor="@color/quoteContent"/>
+                <TextView android:layout_height="wrap_content"
+                          android:layout_width="wrap_content"
+                          android:text="@string/quote2Author"
+                          android:textSize="14dp"
+                          android:layout_gravity="end"
+                          android:textFontWeight="blod"
+                          android:textColor="@color/quoteAuthor"/>
+
+                <!-- Quote 3 -->
+
+                <TextView android:layout_height="wrap_content"
+                          android:layout_width="match_parent"
+                          android:text="@string/quote3"
+                          android:textSize="18dp"
+                          android:layout_marginTop="14dp"
+                          android:textColor="@color/quoteContent"/>
+                <TextView android:layout_height="wrap_content"
+                          android:layout_width="wrap_content"
+                          android:text="@string/quote3Author"
+                          android:textSize="14dp"
+                          android:layout_gravity="end"
+                          android:textFontWeight="blod"
+                          android:textColor="@color/quoteAuthor"/>
+
+                <!-- Quote 4 -->
+
+                <TextView android:layout_height="wrap_content"
+                          android:layout_width="match_parent"
+                          android:text="@string/quote4"
+                          android:textSize="18dp"
+                          android:layout_marginTop="14dp"
+                          android:textColor="@color/quoteContent"/>
+                <TextView android:layout_height="wrap_content"
+                          android:layout_width="wrap_content"
+                          android:text="@string/quote4Author"
+                          android:textSize="14dp"
+                          android:layout_gravity="end"
+                          android:textFontWeight="bold"
+                          android:textColor="@color/quoteAuthor"/>
+
+                <!-- Quote 5 -->
+
+                <TextView android:layout_height="wrap_content"
+                          android:layout_width="match_parent"
+                          android:text="@string/quote5"
+                          android:textSize="18dp"
+                          android:layout_marginTop="14dp"
+                          android:textColor="@color/quoteContent"/>
+                <TextView android:layout_height="wrap_content"
+                          android:layout_width="wrap_content"
+                          android:text="@string/quote5Author"
+                          android:textSize="14dp"
+                          android:layout_gravity="end"
+                          android:textFontWeight="bold"
+                          android:textColor="@color/quoteAuthor"/>
+
+                <!-- Quote 6 -->
+
+                <TextView android:layout_height="wrap_content"
+                          android:layout_width="match_parent"
+                          android:text="@string/quote6"
+                          android:textSize="18dp"
+                          android:layout_marginTop="14dp"
+                          android:textColor="@color/quoteContent"/>
+                <TextView android:layout_height="wrap_content"
+                          android:layout_width="wrap_content"
+                          android:text="@string/quote6Author"
+                          android:textSize="14dp"
+                          android:layout_gravity="end"
+                          android:textFontWeight="bold"
+                          android:textColor="@color/quoteAuthor"/>
+
+                <!-- Quote 7 -->
+
+                <TextView android:layout_height="wrap_content"
+                          android:layout_width="match_parent"
+                          android:text="@string/quote7"
+                          android:textSize="18dp"
+                          android:layout_marginTop="14dp"
+                          android:textColor="@color/quoteContent"/>
+                <TextView android:layout_height="wrap_content"
+                          android:layout_width="wrap_content"
+                          android:text="@string/quote7Author"
+                          android:textSize="14dp"
+                          android:layout_gravity="end"
+                          android:textFontWeight="bold"
+                          android:textColor="@color/quoteAuthor"/>
+
+                </LinearLayout>
+
+              </ScrollView>
+
+
+
+</LinearLayout>

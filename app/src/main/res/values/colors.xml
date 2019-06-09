@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1d73ad</color>
+    <color name="colorPrimaryDark">#0f3d5b</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="quoteContent">#451e68</color>
+    <color name="quoteAuthor">#0d033a</color>
+</resources>

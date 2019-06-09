@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Motivational Quotes</string>
+    <string name="quote1">\"People often say that motivation doesn\'t last. Well, neither does bathing -- that\'s why we
+        recommend it daily.\"
+    </string>
+    <string name="quote1Author">- Zig Ziglar</string>
+    <string name="quote2">Develop success from failures. Discouragement and failure are two of the surest stepping
+        stones to success.\"
+    </string>
+    <string name="quote2Author">-Dale Carnegie</string>
+    <string name="quote3">\"If you cannot do great things, do small things in a great way.\"</string>
+    <string name="quote3Author">-Napoleon Hill</string>
+    <string name="quote4">\"Your time is limited, so don\'t waste it living someone else\'s life.\"</string>
+    <string name="quote4Author">-Steve Jobs</string>
+    <string name="quote5">\"Be patient with yourself. Self-growth is tender; it\'s holy ground. There\'s no greater
+        investment.\"
+    </string>
+    <string name="quote5Author">-Stephen Covey</string>
+    <string name="quote6">\"Nothing is really work unless you would rather be doing something else.\"</string>
+    <string name="quote6Author">-J.M. Barrie</string>
+    <string name="quote7">\"I am not a Handsome guy, but I can give my hand-to-some one who needs help. beauty is in the
+        heart not in the face. \"
+    </string>
+    <string name="quote7Author">- A.P.J Abdul Kalam</string>
+</resources>
